@@ -13,18 +13,24 @@
 // before pushing your code, wait for instructions
 
 const daysOfChristmas = {
-    day1: "",
+    day1: "git ",
     day2: "",
-    day3: "",
+    day3: "Donkey kong",
     day4: "",
-    day5: "",
+    day5: "Spanish olives",
     day6: "",
     day7: "Seven eight nine",
     day8: "Eight is enough",
     day9: "Nine sixties nining.",
     day10: "Ten tent acles",
     day11: "Eleven eggo waffles",
-    day12: "Twelve drummers drumming."
+    day12: "Twelve drummers drumming.",
+    day7: "Totinos Pizza rolls",
+    day8: "Deez nuts",
+    day9: "",
+    day10: "Cheese sticks",
+    day11: "KABLAMO!",
+    day12: ""
   };
   
   // Real song lyrics
