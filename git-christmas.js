@@ -13,17 +13,17 @@
 // before pushing your code, wait for instructions
 
 const daysOfChristmas = {
-    day1: "",
+    day1: "git ",
     day2: "",
-    day3: "",
+    day3: "Donkey kong",
     day4: "",
-    day5: "",
+    day5: "Spanish olives",
     day6: "",
-    day7: "",
-    day8: "",
+    day7: "Totinos Pizza rolls",
+    day8: "Deez nuts",
     day9: "",
-    day10: "",
-    day11: "",
+    day10: "Cheese sticks",
+    day11: "KABLAMO!",
     day12: ""
   };
   
